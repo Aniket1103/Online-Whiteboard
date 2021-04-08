@@ -1,0 +1,55 @@
+
+#canvas{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: solid 1px black;
+}
+
+#toolbar{
+  position: fixed;
+  left: 1.5rem;
+  top: 10rem;
+  border-radius: 5px;
+  background-color: rgb(99, 99, 99);
+  box-shadow: 6px 6px 15px rgb(197, 197, 197);
+}
+
+#color-pallete{
+  border: solid 1px rgb(172, 172, 172);
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 72px;
+  border-radius: 5px;
+  background-color: rgb(175, 175, 175);
+}
+
+/* colors */
+.color{
+  width: 20px;
+  height: 20px;
+  margin: 1px;
+  cursor: pointer;
+  border-radius: 2px;
+  border: solid 1px black;
+}
+
+#red{
+  background-color: red;
+}
+#green{
+  background-color: green;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
+#black{
+  background-color: black;
+}
+#orange{
+  background-color: orange;
+}

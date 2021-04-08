@@ -105,6 +105,10 @@ button {
   background-color: var(--blue-shade-one);
 }
 
+.container a{
+  text-decoration: none;
+}
+
 /* Mobile Styles */
 @media (max-width: 700px) {
   /* Homepage - Navbar */
