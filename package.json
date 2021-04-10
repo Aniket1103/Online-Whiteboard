@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Aniket1103/Online-Whiteboard/issues"
   },
-  "homepage": "https://github.com/Aniket1103/Online-Whiteboard#readme"
+  "homepage": "https://github.com/Aniket1103/Online-Whiteboard#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
 }
