@@ -1,0 +1,24 @@
+{
+  "name": "online-whiteboard",
+  "version": "1.0.0",
+  "description": "Online collaborative whiteboard",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket1103/Online-Whiteboard.git"
+  },
+  "keywords": [
+    "online",
+    "collaborative",
+    "whiteboard"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket1103/Online-Whiteboard/issues"
+  },
+  "homepage": "https://github.com/Aniket1103/Online-Whiteboard#readme"
+}
